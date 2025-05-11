@@ -17,7 +17,7 @@ Bit: 15      14-12    11-9   8    7-5    4      3      2     1-0
 |-----------|--------|-------|
 | OS        | 15     | Start single conversion (1) |
 | MUX       | 14-12  | Kênh đầu vào: `100` = AIN0-GND |
-| PGA       | 11-9   | Gain: `010` = ±2.048V |
+| PGA       | 11-9   | Gain: `001` = ±4.096V |
 | MODE      | 8      | `1` = Single-shot |
 | DR        | 7-5    | Tốc độ mẫu: `100` = 128 SPS |
 | COMP_MODE | 4      | Comparator truyền thống |
