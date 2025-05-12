@@ -1,3 +1,8 @@
+Đinh Đức Trí - 22146425
+TRần Minh Thuận - 22146411
+Đoàn Văn Trọng - 221466429
+
+
 # Linux Kernel Driver cho ADS1115 trên Raspberry Pi
 
 ## Giới thiệu
